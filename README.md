@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm James Bryan Dela Cruz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"></h1>
+<h3 align="center">📌 Manual QA Tester | API & Mobile Testing Enthusiast | Building My QA Portfolio</h3>
 
-<!--
-**jamesbryan-qa/jamesbryan-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:delacruzjamesbryan13@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jamesbryan03" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="35"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2 align="center">💻 About Me</h2>
+<p align="center">
+  ✨ Manual QA Tester with hands-on experience in <b>web, API, and mobile testing</b><br>
+  ✨ Skilled in writing and executing <b>test cases, bug reporting, and QA documentation</b><br>
+  ✨ Practical experience in <b>crowdtesting</b> (uTest – Mobile Testing)<br>
+  ✨ Passionate about delivering high-quality software and always eager to learn
+</p>
+
+---
+
+<h2 align="center">📂 Featured Projects</h2>
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="22"/>
+  <a href="./saucedemo"><b>SauceDemo QA Project</b></a> – Manual testing project including test cases, bug reports, and execution results.<br><br>
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="22"/>
+  <a href="./trello-api-postman"><b>Trello API Testing with Postman</b></a> – API testing project covering CRUD operations, assertions, and reporting with Postman.
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" width="60" title="Postman"/>
+  <img src="https://img.icons8.com/color/48/jira.png" width="60" title="Jira"/>
+  <img src="https://img.icons8.com/color/48/trello.png" width="60" title="Trello"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="60" title="Microsoft Excel"/>
+  <img src="https://img.icons8.com/color/48/google-sheets.png" width="60" title="Google Sheets"/>
+  <img src="https://img.icons8.com/color/48/google-docs.png" width="60" title="Google Docs"/>
+</p>
+
+---
+
+<h2 align="center">🎯 My Goals</h2>
+<p align="center">
+  🚀 Build a professional QA portfolio showcasing real-world projects<br>
+  📱 Expand expertise in <b>mobile testing & crowdtesting</b><br>
+  💡 Transition into an <b>Automation QA Engineer</b> in the future
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZleGxsNHV4bndjcWR2djdscTcydjRrcHkyb201azk4NzVqcGdxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UEJ6DQQp68LJSnyaBb/giphy.gif" width="200" />
+</p>
