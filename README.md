@@ -26,11 +26,17 @@
 ---
 
 <h2 align="center">📂 Featured Projects</h2>
+
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/domain.png" width="22"/>
-  <a href="./saucedemo"><b>SauceDemo QA Project</b></a> – Manual testing project including test cases, bug reports, and execution results.<br><br>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="22"/>
-  <a href="./trello-api-postman"><b>Trello API Testing with Postman</b></a> – API testing project covering CRUD operations, assertions, and reporting with Postman.
+  <span style="display:block; margin-bottom:10px;">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="22" />
+    <a href="./saucedemo"><b>SauceDemo QA Project</b></a> – Manual testing project including test cases, bug reports, and execution results.
+  </span>
+
+  <span style="display:block; margin-bottom:10px;">
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="22" />
+    <a href="./trello-api-postman"><b>Trello API Testing with Postman</b></a> – API testing project covering CRUD operations, assertions, and reporting with Postman.
+  </span>
 </p>
 
 ---
