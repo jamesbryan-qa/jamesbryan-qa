@@ -19,21 +19,19 @@
 <p align="center">
   ✨ Manual QA Tester with hands-on experience in <b>web, API, and mobile testing</b><br>
   ✨ Skilled in writing and executing <b>test cases, bug reporting, and QA documentation</b><br>
-  ✨ Practical experience in <b>crowdtesting</b> (Mobile Testing)<br>
+  ✨ Practical experience in <b>crowdtesting</b> (uTest – Mobile Testing)<br>
   ✨ Passionate about delivering high-quality software and always eager to learn
 </p>
 
 ---
 
-<h2 align="center">📂 Featured Projects</h2> 
+<h2 align="center">📂 Featured Projects</h2>
 <p align="center">
   <img src="https://img.icons8.com/fluency/48/domain.png" width="22"/>
-  <a href="https://github.com/jamesbryan-qa/saucedemo-qa-project/blob/main/README.md" target="_blank"><b>SauceDemo QA Project</b></a> – Manual testing project including test cases, bug reports, and execution results.<br><br>
+  <a href="https://github.com/jamesbryan-qa/saucedemo-qa-project" target="_blank"><b>SauceDemo QA Project</b></a> – Manual testing project including test cases, bug reports, and execution results.<br><br>
 
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="22"/>
-  <a href="https://github.com/jamesbryan-qa/trello-api-postman/blob/main/README.md" target="_blank"><b>Trello API Testing with Postman</b></a> – API testing project covering CRUD operations, assertions, and reporting with Postman.
-</p>
-
+  <a href="https://github.com/jamesbryan-qa/trello-api-postman" target="_blank"><b>Trello API Testing with Postman</b></a> – API testing project covering CRUD operations, assertions, and reporting with Postman.
 </p>
 
 ---
